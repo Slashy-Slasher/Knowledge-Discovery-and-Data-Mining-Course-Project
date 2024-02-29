@@ -21,3 +21,13 @@ Using the provided dataset and the sources we pulled from the CDC, our methods o
 manipulation have revealed interesting points and correlations with the disease and lifestyle factors. With 
 the information and data manipulation tools stated above, our findings have been documented and 
 reviewed for the following representation.
+
+
+
+# Credits
+
+Alexander Mortillite
+
+Chris Metz
+
+Christian McGee
