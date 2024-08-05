@@ -1,7 +1,6 @@
 # Description
 
-**Course Project for CSCI 4105: Knowledge Discovery and Data Mining**
-
+**Course Project**
 
 # Introduction to Project
 
